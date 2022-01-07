@@ -9,7 +9,7 @@ import SectionJavascript from "./Sections/SectionJavascript.jsx";
 import Clarifai from "clarifai";
 
 const app = new Clarifai.App({
-  apiKey: "f72bf8aa3baa4a4b8135edffdfc85a93"
+  apiKey: ""
 });
 
 const ParticleOPS = {
